@@ -1,12 +1,14 @@
 # git-and-linux-basic-commands
 basic commands of git and linux to rmemeber
-Command line study:
+**Command line study:**
 
 1.Creating a new file:
+```
 $ touch filename
+```
 
 2.Display the content of the file:
-$cat filename
+*$cat filename*
 
 3.to create a new folder or directory 
 $mkdir foldername/directory name
