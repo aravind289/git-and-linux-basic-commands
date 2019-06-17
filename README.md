@@ -58,7 +58,7 @@ $rm directory_to_remove
 ```
 
 
-**Git commands
+**Git commands:
 Steps to add your project from local to github**
 
 1.To run the git command
