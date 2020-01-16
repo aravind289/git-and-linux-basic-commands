@@ -97,6 +97,27 @@ git diff
 9.After you pull the changed file how to check where the changes have been made
 ```
 git log -p
+
+```
+10.To know the details of all the branches created
+```
+git branch
+
+```
+11.To save your current directory 
+```
+git stash
+
+```
+12. To delete the branch
+```
+git checkout -D brnchName
+
+```
+13. To check out of your branch
+```
+git checkout brnchName
+
 ```
 
 
